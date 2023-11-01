@@ -8,7 +8,7 @@
       "output": "llo",
       "comparison": "included",
       "timeout": 5,
-      "points": null
+      "points": 1
     },
     {
       "name": "1.2",
@@ -18,7 +18,7 @@
       "output": "4\r\n2\r\n3\r\n1\r\n3\r\n2\r\n2\r\n1\r\n5\r\n0\r\n4\r\n4\r\n3\r\n2\r\n2\r\n3\r\n2\r\n2\r\n4\r\n4\r\n5\r\n3\r\n4\r\n3\r\n3\r\n2\r\n6\r\n0\r\n2\r\n6\r\n5\r\n4\r\n2\r\n2\r\n1\r\n2\r\n4\r\n2\r\n4\r\n1\r\n3\r\n7\r\n2\r\n4\r\n0\r\n2\r\n1\r\n3\r\n3\r\n4\r\n3\r\n6\r\n5\r\n5\r\n2\r\n7\r\n4\r\n0\r\n2\r\n3\r\n0\r\n3\r\n6\r\n8\r\n4\r\n4\r\n0\r\n4\r\n4\r\n2\r\n2\r\n4\r\n4\r\n4\r\n3\r\n3\r\n3\r\n4\r\n2\r\n0\r\n8\r\n3\r\n2\r\n4\r\n5\r\n4\r\n1\r\n3\r\n3\r\n3\r\n3\r\n3\r\n4\r\n4\r\n5\r\n2\r\n5\r\n3\r\n3\r\n2\r\n6\r\n6\r\n4\r\n3\r\n1\r\n7\r\n2\r\n5\r\n1\r\n2\r\n1\r\n3\r\n2\r\n2\r\n2\r\n3\r\n2\r\n4\r\n3\r\n3\r\n1\r\n3\r\n4\r\n1\r\n2\r\n3\r\n2\r\n0\r\n3\r\n2\r\n4\r\n2\r\n3\r\n5\r\n3\r\n2\r\n4\r\n2\r\n3\r\n3\r\n1\r\n2\r\n2\r\n4\r\n3\r\n4\r\n5\r\n4\r\n1\r\n1\r\n3\r\n5\r\n2\r\n4\r\n1\r\n5\r\n4\r\n3\r\n1\r\n1\r\n4\r\n3\r\n4\r\n6\r\n2\r\n6\r\n3\r\n3\r\n4\r\n5\r\n4\r\n3\r\n2\r\n4\r\n2\r\n1\r\n2\r\n2\r\n3\r\n4\r\n6\r\n6\r\n0\r\n3\r\n2\r\n6\r\n4\r\n4\r\n3\r\n5\r\n0\r\n3\r\n4\r\n3\r\n2\r\n2\r\n2\r\n0\r\n2\r\n1\r\n3\r\n6\r\n3\r\n3\r\n3\r\n5\r\n2\r\n3\r\n4\r\n2\r\n5\r\n3\r\n1\r\n6\r\n6\r\n2\r\n6\r\n6\r\n4\r\n0\r\n3\r\n1\r\n3\r\n5\r\n3\r\n2\r\n1\r\n2\r\n4\r\n7\r\n5\r\n4\r\n1\r\n6",
       "comparison": "exact",
       "timeout": 5,
-      "points": null
+      "points": 10
     },
     {
       "name": "2.1",
@@ -28,7 +28,7 @@
       "output": "1.65365",
       "comparison": "included",
       "timeout": 5,
-      "points": null
+      "points": 100
     },
     {
       "name": "2.2a",
@@ -38,7 +38,7 @@
       "output": "2.55556\r\n2.44444\r\n3.77778\r\n2.66667\r\n3\r\n3.55556\r\n3\r\n3.55556\r\n3.44444\r\n3.11111\r\n3.55556\r\n4\r\n2\r\n2.66667\r\n2.66667\r\n2.55556\r\n3.11111\r\n2.88889\r\n4.11111\r\n2.55556\r\n3.77778\r\n2.33333\r\n3.11111\r\n3.55556\r\n3.44444\r\n3.55556\r\n1.58025\r\n1.35802\r\n1.28395\r\n3.33333\r\n3.77778\r\n2.24691\r\n5.11111\r\n4.24691\r\n4.02469\r\n1.20988\r\n0.91358\r\n4\r\n0.444444\r\n1.11111\r\n1.77778\r\n0.91358\r\n2.09877\r\n2.09877\r\n1.65432\r\n0.91358\r\n3.7284\r\n2.44444\r\n2.09877\r\n2.91358\r\n3.80247\r\n4.24691",
       "comparison": "exact",
       "timeout": 5,
-      "points": null
+      "points": 500
     },
     {
       "name": "2.2b",
@@ -48,7 +48,7 @@
       "output": "2.4359",
       "comparison": "included",
       "timeout": 5,
-      "points": null
+      "points": 500
     }
   ]
 }
