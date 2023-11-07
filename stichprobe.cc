@@ -22,15 +22,15 @@ double variance(double mean_value){
     std::ifstream fin("datensumme.txt");
     int zahl1;
     int counter = 0;
-    double variance;
+    double variance = 0.0;
 
     while (fin >> zahl1){
-        variance += zahl1 - mean_value;
+        variance += (zahl1 - mean_value) * (zahl1 - mean_value);
         ++counter;
         //std::cout << "Zahl: " << zahl1 << " Var: " << variance << std::endl;
     }
     fin.close();
-    return variance;
+    return variance / counter;
     
 }
 
